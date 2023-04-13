@@ -39,3 +39,9 @@ A _functional approach_ to learning code. _Why-based_ in contrast to _fact-based
    pip install -r requirements --no-index --find-links dependencies/<OS>
    ```
    where `<OS>` is `linux` or `macos` or `windows`.
+
+# Colab
+
+1. https://colab.research.google.com/github/ChrisCurrin/imbizo_2023_creative_approaches/blob/main/1%20-%20the%20neuron.ipynb
+2. https://colab.research.google.com/github/ChrisCurrin/imbizo_2023_creative_approaches/blob/main/2%20-%20synapses.ipynb
+3. https://colab.research.google.com/github/ChrisCurrin/imbizo_2023_creative_approaches/blob/main/3%20-%20simulator.ipynb
